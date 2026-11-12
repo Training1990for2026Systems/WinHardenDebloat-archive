@@ -1,3 +1,5 @@
+> **This repository is the archive.** WinHardenDebloat was rebuilt on 2026-11-11. The current version and every release are in the new repository: https://github.com/Training1990for2026Systems/WinHardenDebloat - the Imaging Helper has its own repository: https://github.com/Training1990for2026Systems/WHD-Imaging-Helper - This archive is kept as it was, with one branch per version.
+
 # WinHardenDebloat (WHD)
 
 Debloat and harden a newly installed, non-domain Windows 11 PC - offline, native PowerShell, every change journaled; most changes can be undone from the Undo center (see the README for what cannot).
